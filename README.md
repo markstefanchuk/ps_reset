@@ -1,4 +1,4 @@
-# ps_reset - Power Selector Reset
+# Power Selector Reset
 MicroStation V8i MDL Add-in to remove a selection set when the user clicks reset
 
 ## Usage
